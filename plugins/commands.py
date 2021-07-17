@@ -38,12 +38,12 @@ You can also use /dplay <song name> to play a song from Deezer.</b>
 async def start(client, message):
     buttons = [
         [
-        InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/Animemusicarchive6'),
-        InlineKeyboardButton('🤖 Support Group', url='https://t.me/Yeageristbots'),
+        InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/dmx_chating'),
+        InlineKeyboardButton('🤖 Support Group', url='https://t.me/dmx_chating'),
     ],
     [
-        InlineKeyboardButton('👨🏼‍💻 Developer', url='https://t.me/Yeageristbotsdev'),
-        InlineKeyboardButton('🧩 Source', url='https://github.com/Yeagerist-Music-Streamer-Bot-V3/VCMusicPlayerVr4.0'),
+        InlineKeyboardButton('👨🏼‍💻 Developer', url='https://t.me/basildmx'),
+       
     ],
     [
         InlineKeyboardButton('👨🏼‍🦯 Help', callback_data='help'),
@@ -59,12 +59,12 @@ async def start(client, message):
 async def show_help(client, message):
     buttons = [
         [
-            InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/Animemusicarchive6'),
-            InlineKeyboardButton('🤖 Support Group', url='https://t.me/Yeageristbots'),
+            InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/dmx_chating'),
+            InlineKeyboardButton('🤖 Support Group', url='https://t.me/dmx_chating'),
         ],
         [
-            InlineKeyboardButton('👨🏼‍💻 Developer', url='https://t.me/Yeageristbotsdev'),
-            InlineKeyboardButton('🧩 Source', url='https://github.com/Yeagerist-Music-Streamer-Bot-V3/VCMusicPlayerVr4.0'),
+            InlineKeyboardButton('👨🏼‍💻 Developer', url='https://t.me/basildmx'),
+            
         ]
     ]
     reply_markup = InlineKeyboardMarkup(buttons)
