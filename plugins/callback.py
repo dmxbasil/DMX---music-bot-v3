@@ -142,12 +142,12 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data=="help":
         buttons = [
             [
-                InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/Animemusicarchive6'),
-                InlineKeyboardButton('🤖 Support Group', url='https://t.me/Yeageristbots'),
+                InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/dmx_all'),
+                InlineKeyboardButton('🤖 Support Group', url='https://t.me/dmx_chating'),
             ],
             [
-                InlineKeyboardButton('👨🏼‍💻 Developer', url='https://t.me/Yeageristbotsdev'),
-                InlineKeyboardButton('🧩 Source', url='https://github.com/Yeagerist-Music-Streamer-Bot-V3/VCMusicPlayerVr4.0'),
+                InlineKeyboardButton('👨🏼‍💻 Developer', url='https://t.me/basildmx'),
+                InlineKeyboardButton('⭕ Source ⭕') 🔏 
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
