@@ -1,4 +1,4 @@
-# VCMusicPlayerVr4.0
+# DMX MusicPlayer Vr3.0
 Telegram Voice Chat Bot (Channel &amp; Radio) Support
 
 
@@ -6,7 +6,7 @@ Telegram Voice Chat Bot (Channel &amp; Radio) Support
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Yeagerist-Music-Streamer-Bot-V3/VCMusicPlayerVr4.0)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dmxbasil/DMX---music-bot-v3)
 
 ### Deploy to VPS
 
@@ -54,7 +54,7 @@ Fork the repo, Do not Import code.
 ```
 #### Support
 
-Connect Me On [Telegram](https://t.me/Yeageristbotsdev)
+Connect Me On [Telegram](https://t.me/basildmx)
 
 ## Credits 
 - [Dash Eclipse's](https://github.com/dashezup) for his[tgvc-userbot](https://github.com/callsmusic/tgvc-userbot).
